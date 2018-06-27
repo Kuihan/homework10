@@ -4,7 +4,7 @@
 ### -----Readme.md  
   
 录像地址：https://pan.baidu.com/s/1OBhkThg6pdPFmh-ecmRgeQ  
-完整游戏文件：  
+游戏编译后文件：https://pan.baidu.com/s/1XGc7m2QangWU9ZKo9KTv7g  
 
 游戏介绍：  
 这是一个使用分屏方式实现的多人局域网游戏，场景直接在本地生成，游戏对象（玩家）按照老师上课上用的方法创建。每个玩家都可以看到自己和对手的视角，自己的赛车用红色区别开，赛车与终点线碰撞触发GameOver，读秒阶段赛车不能移动。  
